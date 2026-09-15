@@ -1,6 +1,5 @@
 ---
 description: Welcome to your team’s developer platform
-hidden: true
 layout:
   width: wide
   title:
